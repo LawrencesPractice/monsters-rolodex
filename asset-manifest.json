@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//LawrencesPractice.github.io/monsters-rolodex/static/css/main.32f5e827.chunk.css",
+    "main.js": "/https//LawrencesPractice.github.io/monsters-rolodex/static/js/main.a9017b4b.chunk.js",
+    "main.js.map": "/https//LawrencesPractice.github.io/monsters-rolodex/static/js/main.a9017b4b.chunk.js.map",
+    "runtime-main.js": "/https//LawrencesPractice.github.io/monsters-rolodex/static/js/runtime-main.7434aee6.js",
+    "runtime-main.js.map": "/https//LawrencesPractice.github.io/monsters-rolodex/static/js/runtime-main.7434aee6.js.map",
+    "static/js/2.aaf94355.chunk.js": "/https//LawrencesPractice.github.io/monsters-rolodex/static/js/2.aaf94355.chunk.js",
+    "static/js/2.aaf94355.chunk.js.map": "/https//LawrencesPractice.github.io/monsters-rolodex/static/js/2.aaf94355.chunk.js.map",
+    "static/js/3.aab93fdf.chunk.js": "/https//LawrencesPractice.github.io/monsters-rolodex/static/js/3.aab93fdf.chunk.js",
+    "static/js/3.aab93fdf.chunk.js.map": "/https//LawrencesPractice.github.io/monsters-rolodex/static/js/3.aab93fdf.chunk.js.map",
+    "index.html": "/https//LawrencesPractice.github.io/monsters-rolodex/index.html",
+    "static/css/main.32f5e827.chunk.css.map": "/https//LawrencesPractice.github.io/monsters-rolodex/static/css/main.32f5e827.chunk.css.map",
+    "static/js/2.aaf94355.chunk.js.LICENSE.txt": "/https//LawrencesPractice.github.io/monsters-rolodex/static/js/2.aaf94355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7434aee6.js",
+    "static/js/2.aaf94355.chunk.js",
+    "static/css/main.32f5e827.chunk.css",
+    "static/js/main.a9017b4b.chunk.js"
+  ]
+}
